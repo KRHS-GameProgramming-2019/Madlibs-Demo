@@ -1,3 +1,6 @@
+# Written by Chris Spooner
+#            Chris Spooner's Clone
+
 from Screens import *
 from Getters import *
 from Story1 import *
